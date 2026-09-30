@@ -1,4 +1,4 @@
-### Hi, I'm Salami Andrea
+### Hi, I'm Andrea Salami
 
 Welcome to my GitHub profile! I'm a passionate developer with skills in various programming languages and technologies. Here's a brief overview of my expertise and interests:
 
@@ -17,6 +17,7 @@ If you're interested in collaborating on exciting projects involving Python, HTM
 Thank you for visiting my GitHub profile. I look forward to connecting and working together on exciting projects!
 
 **Contact:**
+- Website: [andreasalami.github.io](https://andreasalami.github.io)
 - Email: salami.andreaa@gmail.com
 - X: twitter.com/salami_andrea
 - LinkedIn: www.linkedin.com/in/andrea-salami-204908209/
