@@ -1,5 +1,7 @@
 ### Hi, I'm Andrea Salami
 
+Web developer in Cremona, Italy · Blockchain student at Start2Impact University · 🌐 [andreasalami.github.io](https://andreasalami.github.io)
+
 Welcome to my GitHub profile! I'm a passionate developer with skills in various programming languages and technologies. Here's a brief overview of my expertise and interests:
 
 ### Programming Languages:
@@ -11,6 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in various 
 ### Blockchain and Smart Contract:
 🔗- **Solidity**: Currently, I'm exploring the world of blockchain and smart contract development using Solidity. I'm excited to contribute to projects that leverage blockchain technology to create innovative and decentralized solutions.
 
+### Projects:
+- [LAG – L'Agro ai Giovani app](https://github.com/andreasalami/lag_app): mobile-first web app for the charity festival (React, TypeScript, Tailwind CSS, Supabase). [Live demo](https://andreasalami.github.io/lag_app/)
+- [Counter App](https://github.com/andreasalami/counter-appJS): split-screen counter with persistent memory (HTML, CSS, JavaScript). [Live demo](https://andreasalami.github.io/counter-appJS/)
+- [Crypto Report](https://github.com/andreasalami/Python_Project_Crypto_Report): Python tool that builds a crypto market report from CoinMarketCap API data
+
 ### How to Collaborate:
 If you're interested in collaborating on exciting projects involving Python, HTML, CSS, Javascript, Solidity, or any other related technology, feel free to reach out to me. I'm always open to new challenges and learning opportunities!
 
@@ -19,5 +26,5 @@ Thank you for visiting my GitHub profile. I look forward to connecting and worki
 **Contact:**
 - Website: [andreasalami.github.io](https://andreasalami.github.io)
 - Email: salami.andreaa@gmail.com
-- X: twitter.com/salami_andrea
-- LinkedIn: www.linkedin.com/in/andrea-salami-204908209/
+- X: [x.com/salami_andrea](https://x.com/salami_andrea)
+- LinkedIn: [linkedin.com/in/andrea-salami-204908209](https://www.linkedin.com/in/andrea-salami-204908209/)
